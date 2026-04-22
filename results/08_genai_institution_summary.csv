@@ -1,0 +1,81 @@
+institution,n_sentences,pct_disc,pct_cond,pct_enc,dominant_stance
+Olympic College,12,0.0,0.0,100.0,encouraging
+Harvey Mudd College,22,4.545454545454546,4.545454545454546,90.9090909090909,encouraging
+Colorado Mesa University,25,12.0,0.0,88.0,encouraging
+University of Florida,31,19.35483870967742,0.0,80.64516129032258,encouraging
+University of Arizona,18,16.666666666666664,5.555555555555555,77.77777777777779,encouraging
+Berry College,22,18.181818181818183,4.545454545454546,77.27272727272727,encouraging
+Colgate University,17,17.647058823529413,5.88235294117647,76.47058823529412,encouraging
+Michigan Technological University    ,16,18.75,6.25,75.0,encouraging
+DePaul University,12,25.0,0.0,75.0,encouraging
+Lewis University,31,16.129032258064516,9.67741935483871,74.19354838709677,encouraging
+Pierce College,23,4.3478260869565215,21.73913043478261,73.91304347826086,encouraging
+Georgia Institute of Technology,15,26.666666666666668,0.0,73.33333333333333,encouraging
+Clemson University,15,13.333333333333334,13.333333333333334,73.33333333333333,encouraging
+University of Kansas,15,26.666666666666668,0.0,73.33333333333333,encouraging
+Santa Barbara Community College,18,11.11111111111111,16.666666666666664,72.22222222222221,encouraging
+Harvard Graduate School of Education,25,16.0,12.0,72.0,encouraging
+Columbia University,14,21.428571428571427,7.142857142857142,71.42857142857143,encouraging
+"California State University, Fullerton",17,17.647058823529413,11.76470588235294,70.58823529411765,encouraging
+Wake Forest University,17,11.76470588235294,17.647058823529413,70.58823529411765,encouraging
+Warner Pacific University,61,11.475409836065573,18.0327868852459,70.49180327868852,encouraging
+College of Western Idaho,10,30.0,0.0,70.0,encouraging
+George Washington University,58,17.24137931034483,13.793103448275861,68.96551724137932,encouraging
+Lawrence University,16,18.75,12.5,68.75,encouraging
+Kalamazoo College,16,6.25,25.0,68.75,encouraging
+SUNY Albany,16,25.0,6.25,68.75,encouraging
+Northeastern University,19,31.57894736842105,0.0,68.42105263157895,encouraging
+Habib University,12,33.33333333333333,0.0,66.66666666666666,encouraging
+Northern Virginia Community College,40,22.5,12.5,65.0,encouraging
+UC Santa Cruz,17,29.411764705882355,5.88235294117647,64.70588235294117,encouraging
+Boise State University,22,9.090909090909092,27.27272727272727,63.63636363636363,encouraging
+Boston College,16,18.75,18.75,62.5,encouraging
+University of Louisiana at Lafayette,21,14.285714285714285,23.809523809523807,61.904761904761905,encouraging
+Texas A&M University,13,30.76923076923077,7.6923076923076925,61.53846153846154,encouraging
+University of North Carolina Wilmington,18,22.22222222222222,16.666666666666664,61.111111111111114,encouraging
+Georgia Gwinnett College,41,26.82926829268293,12.195121951219512,60.97560975609756,encouraging
+Tidewater Community College,20,20.0,20.0,60.0,encouraging
+Howard University School of Law,10,20.0,20.0,60.0,encouraging
+University of Massachusetts Global,39,15.384615384615385,25.64102564102564,58.97435897435898,encouraging
+University of Massachusetts Amherst,17,29.411764705882355,11.76470588235294,58.82352941176471,encouraging
+Riverside City College,12,25.0,16.666666666666664,58.333333333333336,encouraging
+Western Virginia University,55,32.72727272727273,9.090909090909092,58.18181818181818,encouraging
+Mercer University,45,24.444444444444443,17.77777777777778,57.77777777777777,encouraging
+University of Memphis,23,17.391304347826086,26.08695652173913,56.52173913043478,encouraging
+Duke University,20,10.0,35.0,55.00000000000001,encouraging
+St. Lawrence University,11,27.27272727272727,18.181818181818183,54.54545454545454,encouraging
+State University of New York - Oswego,11,9.090909090909092,36.36363636363637,54.54545454545454,encouraging
+Western New England University,37,16.216216216216218,29.72972972972973,54.054054054054056,encouraging
+University of Oklahoma Health Sciences Center,13,30.76923076923077,15.384615384615385,53.84615384615385,encouraging
+Cornell College,13,30.76923076923077,15.384615384615385,53.84615384615385,encouraging
+Indiana University,15,40.0,6.666666666666667,53.333333333333336,encouraging
+University of Texas at Tyler,17,35.294117647058826,11.76470588235294,52.94117647058824,encouraging
+University of Pennsylvania,19,47.368421052631575,0.0,52.63157894736842,encouraging
+UMass Lowell,25,24.0,24.0,52.0,encouraging
+San Diego City College,10,40.0,10.0,50.0,encouraging
+Keene State College,32,21.875,28.125,50.0,encouraging
+College of Marin,10,30.0,20.0,50.0,encouraging
+SUNY Geneseo,15,46.666666666666664,6.666666666666667,46.666666666666664,discouraging
+Georgia State University,52,34.61538461538461,19.230769230769234,46.15384615384615,encouraging
+CUNY-LaGuardia Community College,13,46.15384615384615,7.6923076923076925,46.15384615384615,discouraging
+Skidmore College,13,53.84615384615385,0.0,46.15384615384615,discouraging
+American University in Cairo,11,18.181818181818183,36.36363636363637,45.45454545454545,encouraging
+Northwestern Pritzker School of Law & McCormick School of Engineering,11,45.45454545454545,9.090909090909092,45.45454545454545,discouraging
+Fresno City College,11,45.45454545454545,9.090909090909092,45.45454545454545,discouraging
+Rochester Institute of Technology,16,31.25,25.0,43.75,encouraging
+Austin Community College,16,31.25,25.0,43.75,encouraging
+Boston University,14,35.714285714285715,21.428571428571427,42.857142857142854,encouraging
+George Mason University,14,21.428571428571427,35.714285714285715,42.857142857142854,encouraging
+University of Dayton,14,42.857142857142854,14.285714285714285,42.857142857142854,discouraging
+University of Delaware,17,47.05882352941176,11.76470588235294,41.17647058823529,discouraging
+"Salem State University, College Unbound, North Shore Community College",22,59.09090909090909,0.0,40.909090909090914,discouraging
+"Barnard College, Columbia University",10,50.0,10.0,40.0,discouraging
+West Valley College,10,50.0,10.0,40.0,discouraging
+New York University,18,22.22222222222222,38.88888888888889,38.88888888888889,conditional
+University of Missouri,16,31.25,31.25,37.5,encouraging
+University of Tennessee- Knoxville,11,54.54545454545454,9.090909090909092,36.36363636363637,discouraging
+University of New Mexico,20,20.0,45.0,35.0,conditional
+Nunez Community College,26,61.53846153846154,3.8461538461538463,34.61538461538461,discouraging
+Indiana Tech,14,42.857142857142854,28.57142857142857,28.57142857142857,discouraging
+Virginia Commonwealth University,14,50.0,21.428571428571427,28.57142857142857,discouraging
+Michigan State University,10,70.0,10.0,20.0,discouraging

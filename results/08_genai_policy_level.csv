@@ -1,0 +1,204 @@
+course,discipline,institution,n_sentences,stance_policy,avg_conf,pct_disc,pct_cond,pct_enc
+(Honors) English 210: Technical and Professional Writing,Writing,Texas A&M University,8,encouraging,0.7211528085172176,0.21280186,0.14403033,0.64316785
+4th Year Introduction to Research Methods Course,Research,Ontario Tech University,7,encouraging,0.8511260747909546,0.090992555,0.13173863,0.7772688
+ACM271 - Intro to Arts & Cultural Management,Arts,Michigan State University,5,discouraging,0.6416973531246185,0.44770616,0.29917088,0.25312296
+AGRI 1415 Horticulture,Agriculture,Austin Community College,16,encouraging,0.6673723626881838,0.34125537,0.2672742,0.39147046
+AI in Research Optimized Ethically (AIROE),Research,Boise State University,22,encouraging,0.6901801187883724,0.17967473,0.29528826,0.52503705
+ANTH-6611: seminar in Applied Anthropology,Anthropology,"University of North Carolina, Charlotte",5,encouraging,0.7431554079055787,0.15699916,0.28783712,0.55516374
+AP Literature and Composition,Writing,Berthoud High School,9,discouraging,0.7202248308393691,0.3285167,0.28560004,0.38588324
+Advanced Legal Writing,Law,Howard University School of Law,10,encouraging,0.7247458159923553,0.24619448,0.23369336,0.52011216
+Advanced Quantitative Analyses,Research,Clemson University,15,encouraging,0.6507388790448506,0.19737186,0.23420411,0.56842405
+All computer and data science courses,Computer Science,Lyon College,9,encouraging,0.545721259382036,0.27323326,0.18972848,0.53703827
+Analytics and Information Management courses,Business,Western New England University,37,encouraging,0.7261971372204858,0.23076767,0.24712831,0.5221041
+Artificial Intelligence and Legal Reasoning,Law,Northwestern Pritzker School of Law & McCormick School of Engineering,11,encouraging,0.7543855661695654,0.28062546,0.24627246,0.4731021
+BI1151 Elements of Microbiology,Biology,Fairfield University,6,encouraging,0.8213650534550349,0.09540105,0.23314606,0.67145294
+BIOL 4293:  Scientific Communication,Life Sciences,Texas Woman's University,7,encouraging,0.7898952875818525,0.22083245,0.16226979,0.61689776
+BIOL110 Introduction to Biology,Biology,College of Marin,9,encouraging,0.7874938713179694,0.20247525,0.24697733,0.55054736
+BIOL110L Introduction to Biology Laboratory,Biology,College of Marin,1,discouraging,0.550484836101532,0.55048484,0.30404663,0.14546852
+BIOM 1720 Intro to Biomedical Engineering Tools,Engineering,University of Memphis,23,encouraging,0.7535127258819082,0.23449871,0.2527173,0.512784
+BIOSC_3750 General Microbiology,Biology,University of Missouri,16,encouraging,0.674042945727706,0.32353228,0.3038121,0.37265563
+BMED2250: Problems in Biomedical Engineering,Engineering,Georgia Institute of Technology,15,encouraging,0.7454200347264608,0.2237512,0.10641074,0.6698381
+Both first-year seminars and sociology courses,Sociology,Lasell University,3,encouraging,0.6690914630889893,0.18099235,0.41694283,0.4020648
+Building Peace,Interdisciplinary,"Barnard College, Columbia University",10,discouraging,0.655795082449913,0.38194472,0.22217317,0.3958821
+Business,Business,Wharton School University of Pennsylvania,6,encouraging,0.8159795701503754,0.2723069,0.11308395,0.6146092
+Business Law,Law,Grand Rapids Community College,1,discouraging,0.5508192777633667,0.5508193,0.38617945,0.06300126
+CBAD 350 Marketing,Marketing,Coastal Carolina University,3,encouraging,0.7077259222666422,0.36834797,0.33106652,0.30058554
+"CBAD 350, Marketing; MKTG 351, Consumer Market Analysis, MKTG 455, Personal Selling and Sales Management",Marketing,Coastal Carolina University,6,encouraging,0.5969355950752894,0.34924498,0.28946063,0.3612944
+CD115  Design Studio 1,Arts,Fashion Institute of Technology,1,discouraging,0.5508196949958801,0.5508197,0.38617912,0.0630012
+CH 420 - Medicinal Plant Chemistry I,Physical Sciences,Northern Michigan University,3,encouraging,0.8547419508298238,0.229216,0.12423537,0.6465487
+CHEM 449A - Chemistry Capstone,Physical Sciences,Pacific Lutheran University,5,encouraging,0.8441545605659485,0.19065602,0.24255916,0.56678474
+CHHS 370 Healthcare Issues,Healthcare,Western Kentucky University,6,encouraging,0.6825592617193857,0.2531343,0.3114483,0.43541732
+CIE 413,Engineering,University of Maine,4,encouraging,0.829035609960556,0.15742436,0.12594771,0.71662796
+CIS 130 - Productivity Software,Computer Information Systems,Pierce College,23,encouraging,0.7165569416854692,0.1258739,0.22866747,0.64545864
+COLA 1500 - College Advising Seminar,First Year Seminar,University of Virginia,8,encouraging,0.778951033949852,0.19802405,0.29776704,0.50420886
+COM 120 Interpersonal Communication,Communication,Wake Technical Community College,9,discouraging,0.6544413997067345,0.40337545,0.3099619,0.2866627
+COMM 303: Business and Professional Communication,Communications,Western Virginia University,55,encouraging,0.6856476664543152,0.3195759,0.19443473,0.48598933
+CORE 2096 Digital Literacies and Intercultural Learning,Interdisciplinary,American University in Cairo,11,encouraging,0.7225565693595193,0.2578975,0.37137148,0.37073106
+COSC 426: Natural Langauge Processing,Computer Science,Colgate University,10,encouraging,0.7032677173614502,0.2325937,0.22333948,0.5440668
+CS 412 Algorithms: Design and Analysis,Computer Science,Habib University,12,encouraging,0.7339978516101837,0.2771664,0.088310055,0.6345236
+CS 601.471/671 NLP: Self-supervised Models  ,Computer Sciences,Johns Hopkins University,7,discouraging,0.6021251167569842,0.50377566,0.34040403,0.15582033
+CS6750: Human-Computer Interaction; CS7637: Knowledge-Based AI,Computer Sciences,Georgia Tech,6,encouraging,0.7742989559968313,0.31754485,0.1231921,0.55926305
+CSE 3500 Algorithms and Complexity,Computer Science,University of Connecticut,5,discouraging,0.7389114499092102,0.38432842,0.19185743,0.42381415
+ChatGPT for Business (MBA590),Business,State University of New York - Oswego,11,encouraging,0.8029566190459512,0.13026859,0.3177594,0.551972
+"Chemistry (General Chemistry (for majors), Introductory General, Organic, and Biochemistry (for nonmajors), Chemistry and the Environment (for nonscience nonmajors)",Physical Sciences,Queensborough Community College - City University of New York,3,discouraging,0.5369743704795837,0.4554607,0.32091236,0.22362691
+Code of Student Rights & Responsibilities,Misc,Tidewater Community College,2,discouraging,0.6131066977977753,0.6131067,0.34686923,0.040024046
+Cognitive Psychology,Psychology,University of Texas at Tyler,17,encouraging,0.7405826063717112,0.30403394,0.19058736,0.5053787
+College Composition I and II ,Writing,Monmouth University,3,discouraging,0.7022392551104227,0.43088815,0.1370273,0.43208456
+College Composition I with Developmental Support,Writing,Northern Virginia Community College,40,encouraging,0.7629000924527645,0.23604973,0.1760509,0.5878993
+College English ,Writing,Bethune-Cookman University,5,discouraging,0.6642632246017456,0.44978175,0.29964006,0.25057822
+Comms,Intro to Human Communication,Lewis University,31,encouraging,0.7290664247928127,0.19861223,0.18566157,0.61572623
+Community Health and Wellness,Health,CUNY-LaGuardia Community College,13,discouraging,0.657675720178164,0.36818,0.21899366,0.41282633
+Composition I & II,Writing,Monmouth University,3,discouraging,0.7022392153739929,0.4308881,0.13702731,0.43208456
+Computer Programming For Lawyers,Law,Georgetown University Law Center,7,encouraging,0.8325117400714329,0.20194857,0.06513624,0.7329152
+Computing & Data Sciences,Computer Science,Boston University,14,encouraging,0.6653304142611367,0.3507588,0.27974734,0.3694939
+Creative Writing,Writing,Salem State University,2,encouraging,0.7868338525295258,0.3384621,0.18327841,0.47825947
+Criminal Justice Policy; Police & Society,Criminal Justice,"California State University, Fullerton",17,encouraging,0.7349655067219454,0.19897361,0.23064108,0.57038534
+Cyber Security Policy and Law,Cybersecurity,Rochester Institute of Technology,1,conditional,0.6301108002662659,0.328731,0.6301108,0.041158155
+Cybersecurity,Cybersecurity,The University of Texas at San Antonio,6,encouraging,0.7274024188518524,0.29316014,0.32704246,0.37979743
+DLHE 7305: Introduction to Digital Learning Environments (doctoral level),Instructional Design,St. Edward's University,6,encouraging,0.7688775211572647,0.1757678,0.34452257,0.47970963
+Data Structures and Algorithms,Computer Sciences,Colgate University,7,encouraging,0.851766322340284,0.1107744,0.11190255,0.77732307
+Digital Analytics,Marketing,Misc,1,encouraging,0.9732759594917297,0.016190896,0.01053319,0.97327596
+Digital Design Studio,Arts,Fashion Institute of Technology,5,encouraging,0.8143100500106811,0.15010116,0.12906183,0.720837
+Digital Interventions - AI & Education ,Education,College Unbound,5,encouraging,0.6265247166156769,0.31033668,0.25439128,0.43527207
+"Digital Tools, Trends, & Debates",Technology,UW-Madison,4,discouraging,0.5278817564249039,0.52788174,0.25098494,0.22113334
+Draft of AI statement for any syllabus,Instructional Design,Middle Tennessee State University,2,discouraging,0.7097747623920441,0.70977473,0.24135113,0.048874114
+E155: Microprocessor-based Systems,Electrical Engineering,Harvey Mudd College,22,encouraging,0.8110380877148021,0.11939816,0.09445596,0.7861459
+ECO 2013,Economics,Miami Dade College,1,conditional,0.7292370200157166,0.12682448,0.729237,0.14393853
+ECON 225 Economic Development and Growth,Economics,Kalamazoo College,16,encouraging,0.8215229008346796,0.14574794,0.19263244,0.6616196
+EDLD 710 Professional as Writer & Researcher,Research,Pacific University,4,conditional,0.5932749956846237,0.28031883,0.5117802,0.20790094
+EDUC 6191: Core Methods in Educational Data Mining,Research,University of Pennsylvania,3,encouraging,0.46677948037783307,0.36463484,0.29224905,0.34311613
+EN 105 (Expository Writing) and EN 303H (Peer Tutor Training Course),Writing,Skidmore College,13,discouraging,0.686091436789586,0.33692285,0.17003399,0.49304312
+ENG 1510,Writing,Ohio University,4,encouraging,0.9579456299543381,0.020584233,0.021470122,0.95794564
+"ENG101 and ENG102 for Cybersecurity, Applied A.I. and Business Fields of Interest","Writing, Business",Chandler Gilbert Community College (MCCCD),1,discouraging,0.7684465050697327,0.7684465,0.18926083,0.04229264
+"ENGL 102 Introduction to Academic Writing, ENGL 223 Introduction to Creative Writing ",Writing,University of Louisiana at Lafayette,21,encouraging,0.7764523057710557,0.19528086,0.25912818,0.54559094
+"ENGL 102, ENGL 211, ENGL 215, CWI 101","Writing, Literature",College of Western Idaho,10,encouraging,0.8159295082092285,0.25862473,0.10377173,0.6376035
+ENGL 1102: Composition 2,Composition,Georgia State University,26,encouraging,0.7372047855303838,0.31288606,0.2214726,0.46564132
+"ENGL 1301, 1302, 2322, 2323, 2328","Writing, Literature",Northeast Lakeview College,2,conditional,0.5103342682123184,0.31998134,0.2831407,0.396878
+ENGL 131 X4: Writing About Technology,Writing,University of Washington,7,encouraging,0.7389332822390965,0.32008657,0.20518771,0.4747257
+ENGL 2120: British Literature,Literature,Georgia State University,26,encouraging,0.7372047694829794,0.31288606,0.2214725,0.46564144
+ENGL 430: UX Research Methods,Research Methods,University of Arizona,18,encouraging,0.8328093853261735,0.16534458,0.09817681,0.73647857
+ENGL-C1000 Academic Reading and Writing,Writing,Riverside City College,12,encouraging,0.7700366924206415,0.2872543,0.18317737,0.5295684
+"ENGL102, ENGL101, ENGL235",Writing,Olympic College,12,encouraging,0.8779664834340414,0.070643075,0.05139042,0.87796646
+"ENGL3362 ""Crafting Activism: Democracy, Composition, and DIY Rhetorics"" (upper division elective); First Year Writing Seminar (required first-year composition course)",Writing,Boston College,6,encouraging,0.7048631012439728,0.30620155,0.24533685,0.44846156
+ENGLWRIT 112,Writing,University of Massachusetts Amherst,6,encouraging,0.6464599917332331,0.3566188,0.17506158,0.46831965
+ENGR 1100 - Fundamentals of Computation,Engineering,University of Colorado Denver,3,encouraging,0.7900703648726145,0.19245048,0.11401099,0.6935386
+"ENT3503 - Intro to Social Entrepreneurship, ENT6506 - Intro to Social Entrepreneurship for Grad students, ENT4934/ENT6930 - Impact Business Consulting, ENT4934/ENT6930 - Strategic Impact Consulting, ENT4934/ENT6930 - Impact Business Consulting Lab, ENT4934/ENT6930 - Impact Venture Consulting, and ENT4934/ENT6930 - Ignite Impact Philanthropy Lab",Entrepreneurship,University of Florida,31,encouraging,0.8126897638843905,0.15516514,0.082958855,0.761876
+ESRM 462: Coastal and Marine Management,Enviromental Science,California State University Channel Islands,5,encouraging,0.7719462752342224,0.3413458,0.23499613,0.42365807
+Educational Psychology (EPSY) 822 Instrument Development,Education,University of Kansas,15,encouraging,0.7281352758407593,0.24902667,0.14175324,0.60922015
+Effective writing and research in information technology,Information Technology,York University,6,encouraging,0.75781978170077,0.23963849,0.15739286,0.60296863
+"Engineering, Design, and Social Justice",Engineering,California Polytechnic State University,4,discouraging,0.7731471657752991,0.35183203,0.16216893,0.48599902
+English,Writing,Bermudian Springs High School,1,discouraging,0.6738868355751038,0.67388684,0.18016422,0.14594887
+"English 100, 112, 313",Writing,Biola University,3,discouraging,0.6278538306554159,0.4491857,0.26731443,0.28349987
+English 101,English,LaGuardia Community College,7,encouraging,0.7827407888003758,0.21566954,0.102336265,0.68199414
+"English 101, English 105, English 205",Writing,San Diego Miramar College,6,encouraging,0.7104538977146149,0.26523224,0.15699403,0.57777375
+English 111,Composition,Colorado Mesa University,15,encouraging,0.8513553977012634,0.13531592,0.065948404,0.7987357
+English 112 - Composition 2,Writing,Colorado Mesa University,10,encouraging,0.8298752784729004,0.164202,0.06771273,0.7680853
+English 2800W Being Human,Literature,George Washington University,21,encouraging,0.7715468378294081,0.19722655,0.14831385,0.6544596
+English 295 Workplace Writing,Writing,University of Tennessee- Knoxville,11,discouraging,0.7103970917788419,0.38721943,0.18080047,0.43198013
+English Composition (1101 and 1102),Writing,Georgia Gwinnett College,41,encouraging,0.7397469558366915,0.25535324,0.18176545,0.56288135
+"English writing and literature courses, Rhetoric and Professional Writing courses",Writing,"Delta College, Saginaw Valley State University",3,encouraging,0.7302159865697225,0.2788618,0.38374755,0.33739063
+Examples provided for all courses,Misc,University of Delaware,8,encouraging,0.6475594192743301,0.31505838,0.24476665,0.44017494
+"FMS 139W, FMS291, CLTTHY289",Media Studies,UC Irvine,3,conditional,0.8010419209798177,0.1476813,0.48297954,0.3693392
+Finance 101 - Money and Banking,Finance,Santa Barbara Community College,18,encouraging,0.801621009906133,0.16670272,0.14636356,0.68693376
+Financial Accounting,Finance,Fresno City College,11,encouraging,0.687687562270598,0.3444622,0.20886105,0.44667676
+Financial Accounting (ACC 010),Finance,West Valley College,10,discouraging,0.6602214455604554,0.3527395,0.22520992,0.42205054
+First Year Seminar on Sexual Ethics,First Year Seminar,Wake Forest University,17,encouraging,0.8150467066203847,0.16024649,0.1599247,0.6798288
+First Year Writing,First Year Seminar,Regis University,6,conditional,0.7340225378672282,0.40407205,0.25368857,0.34223938
+First-Year Seminar: The Power of Metacognition: Learning to Learn,First Year Seminar,University of Massachusetts Amherst,11,encouraging,0.7459300268780101,0.18493041,0.16276361,0.65230596
+Freshman Composition ,Writing,Old Dominion University,1,discouraging,0.6852455139160156,0.6852455,0.27513415,0.039620258
+GEO 395: Geography of Michigan ,Geography,Central Michigan University,9,encouraging,0.7062855263551077,0.25416243,0.34305248,0.4027851
+GOVT 108: Introduction to International Relations,Government,St. Lawrence University,11,encouraging,0.6847701181064952,0.304327,0.21161766,0.48405534
+"Gender and Technology, Gender as Technology?",Gender Studies,Harvard University,3,discouraging,0.7524552543958029,0.4453124,0.15712012,0.39756748
+General use,Misc,University of Pennsylvania,1,encouraging,0.9664503335952759,0.016073586,0.017476045,0.96645033
+General use,Misc,University of Rhode Island,9,discouraging,0.660707970460256,0.38951036,0.21752374,0.3929659
+"HI 371, Baseball as American History",History,Bentley University,7,encouraging,0.7970830116953168,0.3403944,0.11783793,0.5417677
+HIST-103 ,History,Bermudian Springs High School,1,discouraging,0.6755968928337097,0.6755969,0.291087,0.033316035
+HIST-103-V03,History,Harrisburg Area Community College,2,discouraging,0.7358457446098328,0.3898646,0.14218725,0.46794814
+HNRS480,Honors Course,Drexel University,4,encouraging,0.9021658450365067,0.06256682,0.035267327,0.90216583
+HSC 100 Introduction to Social Services and HSC 200 Theories & Methods of Social Services Practices,Social Services,Volunteer State Community College,4,encouraging,0.9264377653598785,0.040241424,0.033320792,0.92643774
+Health and Human Development Courses,Human Services,University of Pittsburg,2,encouraging,0.7210241556167603,0.37528178,0.2159414,0.40877682
+High School,High School,The Metropolitan Regional Career and Technical Center (The Met),3,encouraging,0.9083506067593893,0.048134863,0.043514535,0.90835065
+History 103,History,HACC York Campus,2,discouraging,0.7358457446098328,0.3898646,0.14218725,0.46794814
+"History of American Music, Music Appreciation",Music,Centralia College,9,encouraging,0.7768084737989638,0.18862046,0.18451993,0.6268596
+Human Rights of Indigenous Peoples,Interdisciplinary,Vanderbilt University,5,encouraging,0.7053680300712586,0.34951988,0.17059721,0.4798829
+IDEM307 Generative AI + Design,Design,Delft University of Technology,3,encouraging,0.6901067097981771,0.2961211,0.1807487,0.52313024
+IHJRN101: Media and Society,Journalism - Multimedia,Keene State College,32,encouraging,0.7310646250844002,0.24144313,0.29681736,0.4617395
+INFO 619: INFORMATION & HUMAN RIGHTS,Library and Information Science,Pratt Institute - School of Information,4,discouraging,0.6253696978092194,0.39997125,0.44869158,0.1513372
+"INFO-645: Advanced Usability Research Methods & Evaluation, ",Research Methods,Pratt Institute,6,encouraging,0.7028475205103556,0.29240504,0.18672733,0.52086765
+INSTRUCTIONAL METHODS FOR THE MIDDLE AND HIGH SCHOOL ,Education,Warner Pacific University,61,encouraging,0.8197756267961909,0.15785195,0.19804193,0.64410615
+INT 111:  Common First Year Seminar:  How Do We Know What We Know?,First Year Seminar,Cornell College,13,encouraging,0.7224398484596839,0.24943191,0.20684935,0.54371876
+ISTM705: Information Management for Decision Making,Management,Texas A&M University,5,encouraging,0.6420962929725647,0.35026437,0.27038944,0.3793462
+Innovation Design Engineering ,Engineering,Imperial / RCA ,8,encouraging,0.7433444410562515,0.22258437,0.1844005,0.59301513
+Institution level course outline template,Misc,University of Newcastle (Australia),6,conditional,0.6541398167610168,0.33250725,0.31941208,0.34808072
+Integrated Reading & Writing,Writing,University of Texas at El Paso,7,discouraging,0.6591426346983228,0.4412439,0.31881592,0.23994018
+Intermediate Quantitative Methods for Politics,Research Methods,New York University,8,conditional,0.6441490016877651,0.23119912,0.2566378,0.51216304
+Intermediate Spanish,Spanish,College of the Holy Cross,3,discouraging,0.7383430699507395,0.4239535,0.18277524,0.39327124
+International Writing Workshop,Writing,New York University,10,encouraging,0.6654554039239884,0.26994807,0.38334137,0.3467106
+Intro to Cognitive Science,Psychology,Lawrence University,16,encouraging,0.7375214789062738,0.20343336,0.16310559,0.63346106
+Introduction to Critical Theory,Literature,George Washington University,21,encouraging,0.7696443569092524,0.19909716,0.14834574,0.6525571
+Introduction to Makerspaces,Interdisciplinary,University of Illinois at Urbana Champaign,4,conditional,0.5677851364016533,0.347363,0.5261842,0.12645276
+Introduction to Professional Writing,Writing,University of North Carolina Wilmington,18,encouraging,0.7519895020458434,0.21935852,0.17993592,0.60070556
+Introduction to Screenwriting,Writing,Universidad de Navarra,6,encouraging,0.8164572020371755,0.3059693,0.19600868,0.49802205
+Introduction to Sociology,Sociology,Columbus State Community College,2,conditional,0.6129684150218964,0.57762635,0.36153156,0.06084208
+J401: Administrative Policy,Business,Indiana University,15,encouraging,0.7143324037392934,0.30651805,0.19279966,0.50068223
+Judaism; Jewish Language in the 21st Century,Cultural Studies,University of Southern California (and Hebrew Union College),7,encouraging,0.7372691461018154,0.25223932,0.35799292,0.38976774
+"LIS 640 - Generative AI: Strategic Application, Evaluation, and Critique",Information Studies,UW-Madison,4,discouraging,0.5278815999627113,0.5278816,0.2509849,0.22113353
+Latin American Film,Film Studies,University of Delaware,4,encouraging,0.7118991017341614,0.34339565,0.089511916,0.5670924
+"Liberal Studies core, History (LBST 210, HIST 220)",History,Mercer University,45,encouraging,0.70523372358746,0.2352216,0.25391436,0.510864
+MAT115,Math,LaGuardia Community College,1,encouraging,0.9729390144348145,0.015684307,0.011376701,0.972939
+MATH 229 - Calculus 1,Mathematics,Northern Illinois University,4,encouraging,0.6244118213653564,0.38337445,0.2475713,0.36905423
+MBA 650 Capstone Strategic Management,Management,Daemen University,4,discouraging,0.71568463742733,0.36642155,0.11596568,0.51761276
+MEA: 3290: Applied Media Analytics,Interdisciplinary,Elon University,6,encouraging,0.8202210714419683,0.098899074,0.080879845,0.8202211
+MGMT 362  Leadership,Management,University of New Mexico,20,conditional,0.6587208896875382,0.30382764,0.3731392,0.32303315
+MGT 6253 - Leadership & Executive Development,Business,George Washington University,16,encouraging,0.7819689698517323,0.15927707,0.22073433,0.61998856
+Marketing,Marketing,Northeastern University,19,encouraging,0.7552148919356497,0.29527348,0.10937405,0.5953525
+"Marketing Research, Business Web Design",Marketing,University of West Georgia ,3,discouraging,0.734785258769989,0.20200403,0.41269532,0.38530064
+"Master's Level Library Media, and Digital Learning Program",Instructional Design,Plymouth State University,6,encouraging,0.6948269208272299,0.2603617,0.2215902,0.5180481
+Misc,Languages,University of Delaware,5,discouraging,0.6948749899864197,0.5100578,0.2290174,0.2609248
+"Modern Russia: culture, politics, & foreign policy",History,Boston College,10,encouraging,0.7344507336616516,0.19441193,0.19044507,0.615143
+NUTR SCI 132: Nutrition Today,Nursing,University of Wisconsin-Madison,7,encouraging,0.8780978236879621,0.12448075,0.19044165,0.6850776
+New Student Experience,First Year Seminar,Montclair State University,9,encouraging,0.7548586395051744,0.14354646,0.22530743,0.63114613
+Nursing Courses,Nursing,Miami Dade College,1,discouraging,0.6381493806838989,0.6381494,0.3121689,0.049681682
+Nutritional Sciences,Life Sciences,University of Oklahoma Health Sciences Center,13,encouraging,0.763925504225951,0.22423121,0.21139942,0.5643693
+Occupational Therapy Fieldwork,Occupational Therapy,MGH Institute of Health Professions,6,conditional,0.7588157753149668,0.1091753,0.59008485,0.3007398
+Ocean Justice,Enviromental Science,Duke University,20,encouraging,0.7401377379894256,0.17635441,0.30047983,0.52316576
+"PHIL 202, Philosophy of Education",Philosophy,"York College, CUNY",5,discouraging,0.6721653878688812,0.25990704,0.2516443,0.48844868
+POS 4932 Honors Public Policy Process,Public Policy,Florida Atlantic University,4,encouraging,0.8180142492055893,0.14035195,0.3599175,0.49973053
+PRWR6255 Grantwriting,Writing,Kennesaw State University,7,discouraging,0.7626220456191471,0.37917775,0.16277201,0.45805025
+PSYC 1100 - Introduction to Psychology,Psychology,Nunez Community College,26,discouraging,0.7184414370701864,0.45560312,0.17398666,0.37041023
+PUBL363 Cybersecurity Policy and Law,Law,Rochester Institute of Technology,15,encouraging,0.7776033401489257,0.29226142,0.24108618,0.46665242
+Philosophy 186B: Later Wittgenstein,Philosophy,"University of California, Berkeley",5,conditional,0.5441618323326111,0.3238236,0.37843713,0.29773927
+"Physical Geography, Urban Geography",Geography,San Diego City College,10,encouraging,0.6873592644929886,0.36950487,0.2157329,0.41476226
+Public Policy and Public Administration courses,Social Sciences/Humanities,Universidad de los Andes,5,encouraging,0.7347624778747559,0.34461948,0.21467844,0.44070205
+REL 103: Introduction to Religious and Theological Studies,Religious Studies,University of Dayton,14,encouraging,0.6310658476182393,0.3838942,0.2149165,0.4011893
+RELE515 - Faith and Flourshing,Misc,Loma Linda University,9,conditional,0.6587334308359358,0.17544591,0.40817645,0.41637763
+RHCS 246: Data and Society,Communications,University of Richmond,3,encouraging,0.8070028821627299,0.21907918,0.14464895,0.6362719
+Research Critique,Research Methods,Indiana Tech,14,discouraging,0.6467866791146142,0.3601697,0.33867794,0.3011523
+Research Methods,Research Methods,DePaul University,12,encouraging,0.6300177598992983,0.29075992,0.20180117,0.5074389
+Research Methods,Research Methods,SUNY Albany,16,encouraging,0.7379594389349222,0.26627097,0.12077894,0.6129501
+Rhetorical Theory and Criticism,Writing,George Mason University,14,encouraging,0.6405969198260989,0.29491812,0.38834065,0.31674123
+"Rock, Popular Music, and Society",History,SUNY-Stony Brook,3,encouraging,0.7525978088378906,0.16238388,0.42807737,0.40953875
+SI710 (doctoral) - Professionalization for Advanced Information Career Planning,Information Science,University of Michigan - School of Information,2,encouraging,0.9555587768554688,0.027677655,0.016763596,0.9555588
+SPN320: Spanish Writing and Composition,Languages,Michigan State University,5,discouraging,0.6640116810798645,0.56743485,0.22458065,0.20798452
+"SSU Writing In the Workplace, CU Writer's workshop/Learning From Experience NS First Year Seminar",Writing,"Salem State University, College Unbound, North Shore Community College",22,discouraging,0.6434600718996741,0.4488304,0.19133115,0.35983846
+Sample Course Policies for Syllabus,Misc,Tidewater Community College,18,encouraging,0.7667684058348337,0.21345983,0.22486621,0.561674
+Social Media Marketing,Marketing,UMass Lowell,25,encouraging,0.689128190279007,0.28763995,0.22350949,0.4888506
+Social Science Teaching Methods,Social Sciences,Sacramento State University,1,encouraging,0.9666306972503662,0.02121357,0.012155773,0.9666307
+Social Work,Social Work (Masters level),University of Massachusetts Global,39,encouraging,0.748643003977262,0.15195297,0.2787301,0.569317
+Sociology (multiple courses),Sociology,UC Santa Cruz,17,encouraging,0.7210358854602364,0.29178432,0.1562978,0.55191785
+Teaching HASS (Humanities and Social Sciences) Curriculum in Primary School,Education,"University of Queensland (UQ), Australia",7,encouraging,0.785943308046886,0.2511983,0.104445614,0.64435613
+Technical Communication,Writing,University of North Texas,5,encouraging,0.8265130519866943,0.26630265,0.098035455,0.6356619
+Theatre courses,Theatre,Small liberal arts college,2,conditional,0.6744821667671204,0.43221,0.47076005,0.09702997
+Theory of Meaning,Philosophy,"University of California, Berkeley",3,discouraging,0.5883625745773315,0.5520146,0.29391238,0.15407301
+Thesis: Neuroscience & Education,Education,"Teachers College, Columbia University",5,encouraging,0.7479220628738403,0.31057897,0.12139509,0.56802595
+U.S. History,History,Berry College,22,encouraging,0.7415154725313187,0.17335595,0.16800259,0.6586414
+UN 1015: Composition,Writing,Michigan Technological University    ,16,encouraging,0.7802515849471092,0.21146399,0.12177201,0.666764
+UNIV 112 (Focused Inquiry),First Year Seminar,Virginia Commonwealth University,2,discouraging,0.7075907289981842,0.36992133,0.53168863,0.09839012
+"UNIV 200 Advanced Focused Inquiry: Literacies, Research and Communication",First Year Seminar,Virginia Commonwealth University,12,discouraging,0.6577116052309672,0.42628527,0.2575129,0.31620184
+United Nations & Globalization,Politics,Columbia University,14,encouraging,0.7882266108478818,0.22958107,0.124101155,0.6463178
+WRIT 039 - Writing Seminar in English,Writing,University of Pennsylvania,15,discouraging,0.7333809753259023,0.3626405,0.17355527,0.46380424
+Writing 101,Writing,American University,2,discouraging,0.47337520122528076,0.4733752,0.22452548,0.3020993
+Writing 101 - Hannah Arendt,Writing,Davidson College,2,discouraging,0.811112105846405,0.3447709,0.09843465,0.5567944
+"Writing 2: Rhetoric and Composition, Theme: Writing and Memory",Writing,"University of California, Santa Cruz",1,discouraging,0.7508845329284668,0.75088453,0.14342661,0.105688825
+Writing Center Principles,Writing Center,Harvard Graduate School of Education,25,encouraging,0.7909571695327758,0.16251597,0.15011008,0.68737394
+Writing Seminar,Writing,SUNY Geneseo,15,encouraging,0.6868979891141256,0.3806292,0.19477463,0.42459616
