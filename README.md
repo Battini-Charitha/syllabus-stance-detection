@@ -1,29 +1,51 @@
 # Syllabus Stance Detection: Wikipedia vs Generative AI
 
-**From Caution to Embrace: Stance Shifts in University Syllabus Policies 
-Toward Wikipedia and Generative AI**
+**From Caution to Embrace: Stance Shifts in University Syllabus Policies Toward Wikipedia and Generative AI**
 
-*Charitha Battini, Alireza Javadian Sabet, Morgan R. Frank*  
-*University of Pittsburgh — Department of Informatics and Networked Systems*
+*Charitha Battini, Alireza Javadian Sabet, Morgan R. Frank*
+
+*University of Pittsburgh , Department of Informatics and Networked Systems*
 
 ---
 
 ## Overview
 
-This repository contains the full pipeline for detecting stance in university 
-syllabus policy sentences and applying it comparatively to Wikipedia and 
-Generative AI (GenAI) policies.
+This repository contains the full pipeline for detecting stance in university syllabus policy sentences and applying it comparatively to Wikipedia and Generative AI (GenAI) policies.
 
-We fine-tune a RoBERTa-base model on 354 manually annotated syllabus sentences 
-across three stance categories **discouraging**, **conditional**, and 
-**encouraging** achieving a Macro F1 of 0.682. Applied at scale, we find 
-that 72.7% of Wikipedia policy sentences are discouraging while 57.1% of 
-GenAI policy sentences are encouraging a near-complete reversal of academic 
-stance.
+We fine-tune a RoBERTa-base model on 354 manually annotated syllabus sentences across three stance categories : **discouraging**, **conditional**, and **encouraging** ,achieving a Macro F1 of 0.682. Applied at scale, we find that 72.7% of Wikipedia policy sentences are discouraging while 57.1% of GenAI policy sentences are encouraging a near-complete reversal of academic stance.
 
 ---
 
 ## Repository Structure
+
+```
+syllabus-stance-detection/
+│
+├── notebooks/                          
+│   ├── 00_data_preparation.ipynb
+│   ├── 01_baseline_models.ipynb
+│   ├── 02_hyperparameter_tuning.ipynb
+│   ├── 03_scibert_finetuning_clean.ipynb
+│   ├── 04_inter_annotator_agreement.ipynb
+│   ├── 05_error_analysis.ipynb
+│   ├── 06_data_augmentation.ipynb
+│   ├── 07_large_scale_classification.ipynb
+│   └── 08_genai_analysis.ipynb
+│
+├── data/                               
+│   ├── raw/                            
+│   ├── annotation/                     
+│   ├── processed/                      
+│   └── interim/                        
+│
+├── results/                            
+│
+└── figures/                            
+```
+
+---
+
+## Notebook Descriptions
 
 | Notebook | Description |
 |----------|-------------|
@@ -34,8 +56,8 @@ stance.
 | `04_inter_annotator_agreement.ipynb` | Annotation validation and label consistency review |
 | `05_error_analysis.ipynb` | Error analysis and model comparison across all approaches |
 | `06_data_augmentation.ipynb` | Synthetic data generation using Llama-3 via Groq API |
-| `07_large_scale_classification.ipynb` | Large-scale inference on 26,600 Wikipedia sentences (CRC pipeline) |
-| `08_genai_analysis.ipynb` | GenAI policy analysis : sentence extraction, classification, and comparative analysis |
+| `07_large_scale_classification.ipynb` | Two-stage pipeline: policy relevance filtering (CRC) + stance classification (Colab) |
+| `08_genai_analysis.ipynb` | GenAI policy analysis — sentence extraction, classification, and comparative analysis |
 
 ---
 
@@ -46,6 +68,8 @@ stance.
 - Encouraging GenAI policies are ~2x longer than discouraging ones (median 317 vs 141 words)
 - Citation is the most common condition attached to GenAI permission (18.7%)
 - Naming a specific AI tool (ChatGPT, Gemini etc.) correlates with encouraging stance
+- Languages and Information Studies show strongest resistance to GenAI
+- STEM and applied fields are most permissive
 
 ---
 
@@ -66,10 +90,21 @@ stance.
 
 | Dataset | Description |
 |---------|-------------|
-| `wiki_unique_sentences.csv` | 26,600 Wikipedia-mentioning syllabus sentences (Open Syllabus Project) |
-| Manually annotated set | 354 sentences (discouraging=292, conditional=34, encouraging=28) |
-| Augmented training set | 483 sentences (real + Llama-3 synthetic) |
-| GenAI corpus | 2,076 AI-mentioning sentences from 208 syllabi |
+| `data/raw/` | Raw GenAI syllabus corpus (208 policies, 263KB) |
+| `data/annotation/` | 354 manually annotated sentences across 3 stance categories |
+| `data/processed/` | Augmented training set (483 sentences, real + synthetic) |
+| `data/interim/` | Intermediate annotation and sampling files |
+| `results/` | Large-scale classified datasets (9,686 Wikipedia + 2,076 GenAI sentences) |
+
+> **Note**: The raw Wikipedia corpus (26,600 sentences, 30.4MB) is not included due to file size constraints. It is available via the [Open Syllabus Project](https://opensyllabus.org).
+
+---
+
+## Trained Model
+
+The fine-tuned RoBERTa model is not included in this repository due to file size constraints (~500MB). It is available on request.
+
+Contact: CHB299@pitt.edu
 
 ---
 
@@ -85,8 +120,7 @@ stance.
 ## Dependencies
 
 ```bash
-pip install transformers torch scikit-learn pandas numpy matplotlib 
-            seaborn spacy openpyxl
+pip install transformers torch scikit-learn pandas numpy matplotlib seaborn spacy openpyxl groq
 python -m spacy download en_core_web_sm
 ```
 
@@ -94,12 +128,9 @@ python -m spacy download en_core_web_sm
 
 ## Citation
 
-If you use this work please cite:
-
 ```bibtex
 @article{battini2026stance,
-  title={From Caution to Embrace: Stance Shifts in University Syllabus 
-         Policies Toward Wikipedia and Generative AI},
+  title={From Caution to Embrace: Stance Shifts in University Syllabus Policies Toward Wikipedia and Generative AI},
   author={Battini, Charitha and Javadian Sabet, Alireza and Frank, Morgan R.},
   year={2026}
 }
@@ -109,10 +140,4 @@ If you use this work please cite:
 
 ## Acknowledgments
 
-This work was conducted as an independent study at the University of Pittsburgh 
-under the supervision of Morgan R. Frank. The project was conceived and guided 
-by Alireza Javadian Sabet. We thank the contributors to the 
-[Syllabi Policies for Generative AI Repository](https://osf.io/) and the 
-[Open Syllabus Project](https://opensyllabus.org) for making their data 
-publicly available. Computing resources were provided by the University of 
-Pittsburgh Center for Research Computing (CRC).
+This work was conducted as an independent study at the University of Pittsburgh under the supervision of Morgan R. Frank. The project was conceived and guided by Alireza Javadian Sabet. We thank the contributors to the [Syllabi Policies for Generative AI Repository](https://osf.io/) and the [Open Syllabus Project](https://opensyllabus.org) for making their data publicly available. Computing resources were provided by the University of Pittsburgh Center for Research Computing (CRC).
