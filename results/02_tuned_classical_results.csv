@@ -1,0 +1,4 @@
+model,f1_macro,f1_vanilla,improvement,accuracy,f1_discouraging,f1_conditional,f1_encouraging
+Logistic Regression (tuned),0.4177,0.429,-0.0113,0.4118,0.4,0.3077,0.5455
+Naive Bayes (tuned),0.4177,0.439,-0.0213,0.4118,0.4,0.3077,0.5455
+SVM (tuned),0.4667,0.418,0.0487,0.4706,0.4,0.3333,0.6667

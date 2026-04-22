@@ -1,0 +1,5 @@
+config_name,model_name,strategy,f1_macro,accuracy,f1_discouraging,f1_conditional,f1_encouraging,best_val_f1,training_time
+bert-base,bert-base-uncased,full,0.2997,0.8169,0.0,0.8992,0.0,0.8939,0.8
+roberta-base,roberta-base,full,0.5741,0.7887,0.2353,0.887,0.6,0.8943,1.4
+scibert-full,allenai/scibert_scivocab_uncased,full,0.3997,0.831,0.0,0.9134,0.2857,0.8635,0.8
+scibert-lora,allenai/scibert_scivocab_uncased,lora,0.3329,0.7042,0.0,0.8448,0.1538,0.5722,1.0

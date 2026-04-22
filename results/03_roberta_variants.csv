@@ -1,0 +1,4 @@
+variant,f1_macro,accuracy,f1_discouraging,f1_conditional,f1_encouraging,best_val_f1,training_time
+A_strong_weights,0.5589,0.831,0.9076,0.0,0.7692,0.9392,1.6
+B_weights_balanced,0.6208,0.7606,0.8624,0.3333,0.6667,0.8136,0.7
+C_all_fixes,0.6406,0.8451,0.9217,0.3333,0.6667,0.8363,1.1

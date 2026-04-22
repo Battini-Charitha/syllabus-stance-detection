@@ -1,0 +1,6 @@
+,model,f1_macro,f1_weighted,accuracy,f1_discouraging,f1_conditional,f1_encouraging
+1,Zero-Shot BERT,0.6465,0.6524,0.6471,0.6667,0.5455,0.7273
+2,Naive Bayes + TF-IDF,0.4387,0.4477,0.4118,0.3636,0.2857,0.6667
+3,Logistic Regression + TF-IDF,0.4286,0.437,0.4118,0.4,0.2857,0.6
+4,SVM + TF-IDF,0.4177,0.4242,0.4118,0.4,0.3077,0.5455
+5,Random Forest + TF-IDF,0.3927,0.4027,0.4706,0.25,0.2222,0.7059
